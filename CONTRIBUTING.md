@@ -11,7 +11,7 @@ If you encounter a bug or have a feature request, please create an issue on [Git
 1. Fork the repository on GitHub.
 2. Clone your forked repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/Fetch_and_store.git
+    git clone https://github.com/DeepanshuTIET/Fetch_and_store.git
     cd Fetch_and_store
     ```
 
