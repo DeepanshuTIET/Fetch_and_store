@@ -21,8 +21,8 @@ This project is a Flask web application that fetches and stores stock data for a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/stock-data-fetcher.git
-    cd stock-data-fetcher
+    git clone https://github.com/DeepanshuTIET/Fetch_and_store.git
+    cd Fetch_and_store
     ```
 
 2. Create a virtual environment and activate it:
@@ -86,3 +86,7 @@ The SQLite database contains a single table `StockData` with the following colum
 ## License
 
 This project is licensed under the MIT License.
+
+## Repository
+
+The source code for this project can be found on GitHub: [Fetch_and_store](https://github.com/DeepanshuTIET/Fetch_and_store/tree/main)
